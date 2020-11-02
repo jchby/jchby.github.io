@@ -22,7 +22,7 @@ enableGitInfo = true
     BookRepo = 'https://github.com/jchby/jchby.github.io'
     BookSearch = true
     BookComments = false
-    BookEditPath = 'edit/master/content'
+    BookEditPath = 'edit/master'
     BookMenuBundle = '/menu'
 
 # Social Links
