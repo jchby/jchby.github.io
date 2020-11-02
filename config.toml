@@ -1,0 +1,29 @@
+baseURL = "/"
+languageCode = "zh-cn"
+title = "Home"
+theme = "book"
+publishdir = "."
+defaultContentLanguage = "cn"
+disqusShortname = "jchby"
+
+# Book configuration
+disablePathToLower = true
+enableGitInfo = true
+
+[languages]
+[languages.cn]
+  languageName = 'Chinese'
+  contentDir = 'content'
+  weight = 1
+
+[params]
+    BookToC = 3
+    BookLogo = 'logo.png'
+    BookRepo = 'https://github.com/jchby/jchby.github.io'
+    BookSearch = true
+    BookComments = false
+    BookEditPath = 'edit/master/content'
+    BookMenuBundle = '/menu'
+
+# Social Links
+	github = "https://github.com/jchby/"
