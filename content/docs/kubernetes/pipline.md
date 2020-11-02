@@ -1,1 +1,1 @@
-pipline
+kuberctl
