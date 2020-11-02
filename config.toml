@@ -19,3 +19,11 @@ enableGitInfo = true
 [params]
     BookToC = 3
     BookLogo = 'logo.png'
+    BookRepo = 'https://github.com/jchby/jchby.github.io'
+    BookSearch = true
+    BookComments = false
+    BookEditPath = 'edit/master/content'
+    BookMenuBundle = '/menu'
+
+# Social Links
+	github = "https://github.com/jchby/"
