@@ -17,12 +17,12 @@ enableGitInfo = true
   weight = 1
 
 [params]
-    BookToC = true
+    BookToC = 3
     BookLogo = 'logo.png'
     BookRepo = 'https://github.com/jchby/jchby.github.io'
     BookSearch = true
     BookComments = false
-    BookEditPath = 'edit/master'
+    BookEditPath = 'edit/master/content'
     BookMenuBundle = '/menu'
 
 # Social Links
