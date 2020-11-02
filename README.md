@@ -1,1 +1,0 @@
-https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#troubleshooting-publishing-problems-with-your-github-pages-site
