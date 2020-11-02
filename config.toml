@@ -17,7 +17,7 @@ enableGitInfo = true
   weight = 1
 
 [params]
-    BookToC = 3
+    BookToC = true
     BookLogo = 'logo.png'
     BookRepo = 'https://github.com/jchby/jchby.github.io'
     BookSearch = true
